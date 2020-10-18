@@ -7,5 +7,14 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: ---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: stories.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Hearing stories from the scriptures is potent means of developing character. All different kinds of situations we encounter in day to day life are there in the scriptures along with the responses of different individuals for those situations. Consequently, hearing stories from the scriptures contributes to the maturity and growth of children in proper direction.
 ---
